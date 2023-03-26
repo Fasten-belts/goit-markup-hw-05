@@ -63,17 +63,11 @@ body {
   gap: 40px;
 }
 
-.page-navigation {
-  width: calc((100% - 80px) / 3);
-}
-
 .contact-nav {
   display: flex;
   gap: 40px;
 }
-.contact-link {
-  width: calc((100% - 40px) / 2);
-}
+
 .navigation {
   display: flex;
   align-items: center;
